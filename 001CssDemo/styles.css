@@ -55,6 +55,7 @@ h2 {
   font-family: Impact, serif;
 }
 
+/* 自定义的item类中的p标签，自定义处理 */
 .item p {
   display: inline-block;
   margin-top: 5px;

@@ -1,0 +1,32 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open 000index.html",
+            "file": "/Users/denglibing/HDProject/HTML/FreeCodeCamp/000HtmlDemo/index.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open 001Css.html",
+            "file": "/Users/denglibing/HDProject/HTML/FreeCodeCamp/001CssDemo/index.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open 002CssColor.html",
+            "file": "/Users/denglibing/HDProject/HTML/FreeCodeCamp/002CssColorDemo/index.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open 003Form.html",
+            "file": "/Users/denglibing/HDProject/HTML/FreeCodeCamp/003FormDemo/index.html"
+        }
+    ]
+}
